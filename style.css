@@ -26,6 +26,6 @@ body{
 }
 .inputBox i{
     position: absolute;
-    right: 12px;
+    right: 10px;
     cursor: pointer;
 }
